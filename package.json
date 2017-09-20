@@ -1,0 +1,11 @@
+{
+  "name": "test-webpack",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.0.1",
+    "mini.css": "^2.3.4"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.8.2"
+  }
+}
